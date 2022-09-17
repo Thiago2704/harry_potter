@@ -1,2 +1,2 @@
-# harry_potter 
-harry potter e hermione
+# Harry Potter 
+Harry Potter e Hermione
